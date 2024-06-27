@@ -1,0 +1,106 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"fKS1cRTPtt\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Made in Mars - HRMS</span>\",\"col\":12}},{\"id\":\"6mqME-f8mC\",\"type\":\"paragraph\",\"data\":{\"text\":\"Human Resource Management System for 'Made in Mars Inc.'\",\"col\":12}},{\"id\":\"mHIS7xlI8B\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"7lvMvPErwb\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px;\\\"><b>Dashboard Shortcuts</b></span>\",\"col\":12}},{\"id\":\"Gkhy4G6URy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Dashboard\",\"col\":3}},{\"id\":\"z12l2yvUrK\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"lA9JyvkUuk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Navigation Section</b></span>\",\"col\":12}},{\"id\":\"tiZMXtsLSp\",\"type\":\"card\",\"data\":{\"card_name\":\"Organization Managament\",\"col\":4}},{\"id\":\"Q9uf2pEvGi\",\"type\":\"card\",\"data\":{\"card_name\":\"Employee\",\"col\":4}}]",
+ "creation": "2024-06-12 08:21:20.172575",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "project-2",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "MiM-HRMS",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization Managament",
+   "link_count": 4,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Company",
+   "link_count": 0,
+   "link_to": "Company",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Branch",
+   "link_count": 0,
+   "link_to": "Branch",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Department",
+   "link_count": 0,
+   "link_to": "Department",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Designation",
+   "link_count": 0,
+   "link_to": "Designation",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Profiles",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-06-20 09:38:26.792663",
+ "modified_by": "Administrator",
+ "module": "MiM-HRMS",
+ "name": "MiM-HRMS",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "Dashboard",
+   "label": "Employee Dashboard",
+   "link_to": "Employee",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "MiM-HRMS"
+}
